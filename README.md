@@ -6,7 +6,10 @@
 
 ### 1-1. 프로젝트 Front-end/Back-end 소개
 
-마켓컬리 클론 프로젝트
+- 마켓컬리 UI를 활용한 정육점 쇼핑몰
+- React.js, Sass로 구현
+- 협업 툴 :  Notion, Trello, Slack, Figma
+
 
 ### 1-2. 개발 인원 및 기간
 
